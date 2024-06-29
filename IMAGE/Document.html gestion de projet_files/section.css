@@ -1,0 +1,34 @@
+.container1{
+    display: flex;
+
+}
+.col1{
+    background-color: blueviolet;
+    border: 2px solid;
+    border-color: black;
+    margin: 10px;
+}
+.container2{
+    display: flex;
+
+}
+.col2{
+    background-color: blueviolet;
+    border-color: bisque;
+    border: 2px solid;
+    margin: 10px;
+}
+img{
+    width: 100px; ;
+}
+nav{
+    background-color: blueviolet;
+}
+ul, li{
+    display: flex;
+    padding: 30px;
+
+}
+ul,li a{
+text-decoration: none;
+}
